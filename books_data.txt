@@ -1,0 +1,4 @@
+21 Harap_Alb Ion_Creanga Poemele_Luminii Trinitas 23 12 2003 45
+24 Ultima_noapte_de_dragoste,intaia_noapte_de_razboi Camil_Petrescu Ziarul_Tanar Miau_Purceaua 17 3 2008 55
+61 Pranzea_cel_voinic_si_merele_de_aur Denis_Iancu Vasi_Cutu Teora 6 8 2009 69
+end
